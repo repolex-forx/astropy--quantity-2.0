@@ -1,0 +1,7 @@
+[2026-10-21T21:15:24Z] === AST ITERATION 1 START | repo=astropy/quantity-2.0 sha=c0d69c7c ===
+[2026-10-21T21:15:24Z] [iter=1] PHASE START: ast repo=astropy/quantity-2.0 sha=c0d69c7c
+[2026-10-21T21:15:24Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T21:15:28Z] [iter=1] AST chunks built count=1 triples=52242
+[2026-10-21T21:15:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c0d69c7c323d3b5ea69652d2fede4cda20ee0bca/.complete
+[2026-10-21T21:15:28Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-10-21T21:15:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
